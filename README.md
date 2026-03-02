@@ -1,4 +1,5 @@
 SmartFill Privacy Policy
+
 Last Updated: March 2026
 
 SmartFill ("SmartFill", "we", "us", or "our") provides a browser extension designed to help users autofill web forms using locally stored profile information. This Privacy Policy explains how information is handled in connection with the SmartFill browser extension.
