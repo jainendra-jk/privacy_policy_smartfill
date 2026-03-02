@@ -26,8 +26,7 @@ All information entered into SmartFill — including but not limited to:
  - Identification numbers (PAN, Aadhaar, Passport, DL, etc.)
  - Addresses
  - Education details
- - Contact information
-is stored exclusively in your browser’s local storage on your device.
+ - Contact information is stored exclusively in your browser’s local storage on your device.   
  - This data:
 Remains under your control
 Is not transmitted to SmartFill
