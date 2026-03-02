@@ -27,12 +27,13 @@ All information entered into SmartFill — including but not limited to:
  - Addresses
  - Education details
  - Contact information is stored exclusively in your browser’s local storage on your device.   
- - This data:
-Remains under your control
-Is not transmitted to SmartFill
-Is not accessible to us
-Is not backed up to external systems
-SmartFill does not have the technical capability to access, retrieve, or view your locally stored data.
+ 
+ -  This data:
+     - Remains under your control
+     - Is not transmitted to SmartFill
+     - Is not accessible to us
+     - Is not backed up to external systems
+     - SmartFill does not have the technical capability to access, retrieve, or view your locally stored data.
 
    4.1 Profile Management
    - The Extension’s popup and settings interface access locally stored data to allow you to:
